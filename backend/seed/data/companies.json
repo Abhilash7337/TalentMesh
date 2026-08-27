@@ -1,0 +1,137 @@
+[
+  {
+    "id": "company-001",
+    "name": "Nimbus Cloud Systems",
+    "industry": "Cloud Infrastructure"
+  },
+  {
+    "id": "company-002",
+    "name": "Bluepeak Analytics",
+    "industry": "Data & Analytics"
+  },
+  {
+    "id": "company-003",
+    "name": "Vantage Health Tech",
+    "industry": "Healthcare"
+  },
+  {
+    "id": "company-004",
+    "name": "Ledgerline Fintech",
+    "industry": "Fintech"
+  },
+  {
+    "id": "company-005",
+    "name": "Orbital Commerce",
+    "industry": "E-commerce"
+  },
+  {
+    "id": "company-006",
+    "name": "Fernwood Robotics",
+    "industry": "Robotics"
+  },
+  {
+    "id": "company-007",
+    "name": "Cobalt Gaming Studios",
+    "industry": "Gaming"
+  },
+  {
+    "id": "company-008",
+    "name": "Meridian EdLabs",
+    "industry": "EdTech"
+  },
+  {
+    "id": "company-009",
+    "name": "Ironclad Security",
+    "industry": "Cybersecurity"
+  },
+  {
+    "id": "company-010",
+    "name": "Portside Logistics",
+    "industry": "Logistics"
+  },
+  {
+    "id": "company-011",
+    "name": "Helix Biotech",
+    "industry": "Biotech"
+  },
+  {
+    "id": "company-012",
+    "name": "Stratos Media Group",
+    "industry": "Media"
+  },
+  {
+    "id": "company-013",
+    "name": "Anchorpoint Insurance",
+    "industry": "Insurance"
+  },
+  {
+    "id": "company-014",
+    "name": "Driftwood Travel Co.",
+    "industry": "Travel"
+  },
+  {
+    "id": "company-015",
+    "name": "Solace Wellness",
+    "industry": "Health & Wellness"
+  },
+  {
+    "id": "company-016",
+    "name": "Cascade Energy Systems",
+    "industry": "Energy"
+  },
+  {
+    "id": "company-017",
+    "name": "Brightline Mobility",
+    "industry": "Transportation"
+  },
+  {
+    "id": "company-018",
+    "name": "Kestrel Aerospace",
+    "industry": "Aerospace"
+  },
+  {
+    "id": "company-019",
+    "name": "Thistle & Co. Retail",
+    "industry": "Retail"
+  },
+  {
+    "id": "company-020",
+    "name": "Northfield Agritech",
+    "industry": "Agriculture Tech"
+  },
+  {
+    "id": "company-021",
+    "name": "Pinehurst Legal Tech",
+    "industry": "LegalTech"
+  },
+  {
+    "id": "company-022",
+    "name": "Amberlight Studios",
+    "industry": "Creative & Design"
+  },
+  {
+    "id": "company-023",
+    "name": "Redwood Cloud Data",
+    "industry": "Cloud Infrastructure"
+  },
+  {
+    "id": "company-024",
+    "name": "Talon Cyber Defense",
+    "industry": "Cybersecurity"
+  },
+  {
+    "id": "company-025",
+    "name": "Glasswing Marketing",
+    "industry": "Marketing Tech"
+  },
+  {
+    "id": "company-026",
+    "name": "Underline Payments",
+    "industry": "Fintech"
+  },
+  {
+    "id": "company-027",
+    "name": "Vesper Analytics",
+    "industry": "Data & Analytics"
+  }
+]

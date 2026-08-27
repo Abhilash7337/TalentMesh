@@ -1,0 +1,327 @@
+[
+  {
+    "fromId": "skill-001",
+    "toId": "skill-002",
+    "strength": 0.9
+  },
+  {
+    "fromId": "skill-001",
+    "toId": "skill-011",
+    "strength": 0.85
+  },
+  {
+    "fromId": "skill-001",
+    "toId": "skill-012",
+    "strength": 0.8
+  },
+  {
+    "fromId": "skill-001",
+    "toId": "skill-015",
+    "strength": 0.85
+  },
+  {
+    "fromId": "skill-002",
+    "toId": "skill-011",
+    "strength": 0.8
+  },
+  {
+    "fromId": "skill-002",
+    "toId": "skill-013",
+    "strength": 0.85
+  },
+  {
+    "fromId": "skill-002",
+    "toId": "skill-014",
+    "strength": 0.75
+  },
+  {
+    "fromId": "skill-011",
+    "toId": "skill-014",
+    "strength": 0.9
+  },
+  {
+    "fromId": "skill-012",
+    "toId": "skill-002",
+    "strength": 0.6
+  },
+  {
+    "fromId": "skill-013",
+    "toId": "skill-001",
+    "strength": 0.7
+  },
+  {
+    "fromId": "skill-011",
+    "toId": "skill-036",
+    "strength": 0.4
+  },
+  {
+    "fromId": "skill-015",
+    "toId": "skill-016",
+    "strength": 0.9
+  },
+  {
+    "fromId": "skill-016",
+    "toId": "skill-031",
+    "strength": 0.6
+  },
+  {
+    "fromId": "skill-016",
+    "toId": "skill-029",
+    "strength": 0.55
+  },
+  {
+    "fromId": "skill-015",
+    "toId": "skill-036",
+    "strength": 0.5
+  },
+  {
+    "fromId": "skill-015",
+    "toId": "skill-031",
+    "strength": 0.55
+  },
+  {
+    "fromId": "skill-003",
+    "toId": "skill-017",
+    "strength": 0.9
+  },
+  {
+    "fromId": "skill-003",
+    "toId": "skill-018",
+    "strength": 0.85
+  },
+  {
+    "fromId": "skill-003",
+    "toId": "skill-020",
+    "strength": 0.85
+  },
+  {
+    "fromId": "skill-017",
+    "toId": "skill-029",
+    "strength": 0.6
+  },
+  {
+    "fromId": "skill-018",
+    "toId": "skill-033",
+    "strength": 0.5
+  },
+  {
+    "fromId": "skill-004",
+    "toId": "skill-019",
+    "strength": 0.9
+  },
+  {
+    "fromId": "skill-019",
+    "toId": "skill-029",
+    "strength": 0.55
+  },
+  {
+    "fromId": "skill-010",
+    "toId": "skill-030",
+    "strength": 0.6
+  },
+  {
+    "fromId": "skill-008",
+    "toId": "skill-033",
+    "strength": 0.5
+  },
+  {
+    "fromId": "skill-006",
+    "toId": "skill-005",
+    "strength": 0.4
+  },
+  {
+    "fromId": "skill-007",
+    "toId": "skill-006",
+    "strength": 0.4
+  },
+  {
+    "fromId": "skill-024",
+    "toId": "skill-025",
+    "strength": 0.9
+  },
+  {
+    "fromId": "skill-025",
+    "toId": "skill-026",
+    "strength": 0.6
+  },
+  {
+    "fromId": "skill-024",
+    "toId": "skill-027",
+    "strength": 0.7
+  },
+  {
+    "fromId": "skill-025",
+    "toId": "skill-021",
+    "strength": 0.6
+  },
+  {
+    "fromId": "skill-024",
+    "toId": "skill-021",
+    "strength": 0.6
+  },
+  {
+    "fromId": "skill-026",
+    "toId": "skill-021",
+    "strength": 0.65
+  },
+  {
+    "fromId": "skill-021",
+    "toId": "skill-022",
+    "strength": 0.4
+  },
+  {
+    "fromId": "skill-021",
+    "toId": "skill-023",
+    "strength": 0.4
+  },
+  {
+    "fromId": "skill-022",
+    "toId": "skill-023",
+    "strength": 0.35
+  },
+  {
+    "fromId": "skill-027",
+    "toId": "skill-025",
+    "strength": 0.55
+  },
+  {
+    "fromId": "skill-028",
+    "toId": "skill-021",
+    "strength": 0.6
+  },
+  {
+    "fromId": "skill-028",
+    "toId": "skill-023",
+    "strength": 0.5
+  },
+  {
+    "fromId": "skill-029",
+    "toId": "skill-033",
+    "strength": 0.95
+  },
+  {
+    "fromId": "skill-030",
+    "toId": "skill-033",
+    "strength": 0.95
+  },
+  {
+    "fromId": "skill-033",
+    "toId": "skill-034",
+    "strength": 0.85
+  },
+  {
+    "fromId": "skill-029",
+    "toId": "skill-034",
+    "strength": 0.8
+  },
+  {
+    "fromId": "skill-031",
+    "toId": "skill-034",
+    "strength": 0.6
+  },
+  {
+    "fromId": "skill-032",
+    "toId": "skill-034",
+    "strength": 0.5
+  },
+  {
+    "fromId": "skill-035",
+    "toId": "skill-034",
+    "strength": 0.55
+  },
+  {
+    "fromId": "skill-003",
+    "toId": "skill-037",
+    "strength": 0.9
+  },
+  {
+    "fromId": "skill-037",
+    "toId": "skill-038",
+    "strength": 0.9
+  },
+  {
+    "fromId": "skill-037",
+    "toId": "skill-039",
+    "strength": 0.9
+  },
+  {
+    "fromId": "skill-037",
+    "toId": "skill-041",
+    "strength": 0.7
+  },
+  {
+    "fromId": "skill-003",
+    "toId": "skill-040",
+    "strength": 0.85
+  },
+  {
+    "fromId": "skill-040",
+    "toId": "skill-041",
+    "strength": 0.85
+  },
+  {
+    "fromId": "skill-041",
+    "toId": "skill-033",
+    "strength": 0.6
+  },
+  {
+    "fromId": "skill-037",
+    "toId": "skill-042",
+    "strength": 0.7
+  },
+  {
+    "fromId": "skill-037",
+    "toId": "skill-043",
+    "strength": 0.7
+  },
+  {
+    "fromId": "skill-041",
+    "toId": "skill-044",
+    "strength": 0.7
+  },
+  {
+    "fromId": "skill-003",
+    "toId": "skill-044",
+    "strength": 0.5
+  },
+  {
+    "fromId": "skill-046",
+    "toId": "skill-050",
+    "strength": 0.8
+  },
+  {
+    "fromId": "skill-046",
+    "toId": "skill-045",
+    "strength": 0.6
+  },
+  {
+    "fromId": "skill-045",
+    "toId": "skill-052",
+    "strength": 0.7
+  },
+  {
+    "fromId": "skill-047",
+    "toId": "skill-045",
+    "strength": 0.6
+  },
+  {
+    "fromId": "skill-051",
+    "toId": "skill-047",
+    "strength": 0.6
+  },
+  {
+    "fromId": "skill-051",
+    "toId": "skill-049",
+    "strength": 0.5
+  },
+  {
+    "fromId": "skill-048",
+    "toId": "skill-045",
+    "strength": 0.4
+  },
+  {
+    "fromId": "skill-046",
+    "toId": "skill-051",
+    "strength": 0.5
+  }
+]

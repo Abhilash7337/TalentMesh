@@ -7,6 +7,7 @@
   "scripts": {
     "dev": "node --watch src/index.js",
     "start": "node src/index.js",
+    "generate": "node seed/generate.js",
     "seed": "node seed/load.js",
     "seed:reset": "node seed/load.js --reset",
     "test": "node --test"

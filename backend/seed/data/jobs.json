@@ -1,0 +1,2497 @@
+[
+  {
+    "id": "job-001",
+    "title": "Lead Machine Learning Engineer",
+    "seniority": "Lead",
+    "location": "Atlanta, GA",
+    "status": "open",
+    "postedDate": "2026-06-10",
+    "companyId": "company-001",
+    "requiresSkills": [
+      {
+        "skillId": "skill-041",
+        "importance": "required",
+        "minYears": 2
+      },
+      {
+        "skillId": "skill-037",
+        "importance": "required",
+        "minYears": 5
+      },
+      {
+        "skillId": "skill-043",
+        "importance": "required",
+        "minYears": 5
+      },
+      {
+        "skillId": "skill-042",
+        "importance": "required",
+        "minYears": 1
+      },
+      {
+        "skillId": "skill-038",
+        "importance": "nice-to-have",
+        "minYears": 2
+      }
+    ]
+  },
+  {
+    "id": "job-002",
+    "title": "Staff Backend Developer",
+    "seniority": "Staff",
+    "location": "Seattle, WA",
+    "status": "open",
+    "postedDate": "2026-05-30",
+    "companyId": "company-001",
+    "requiresSkills": [
+      {
+        "skillId": "skill-015",
+        "importance": "required",
+        "minYears": 5
+      },
+      {
+        "skillId": "skill-016",
+        "importance": "required",
+        "minYears": 5
+      },
+      {
+        "skillId": "skill-033",
+        "importance": "required",
+        "minYears": 4
+      },
+      {
+        "skillId": "skill-004",
+        "importance": "required",
+        "minYears": 1
+      },
+      {
+        "skillId": "skill-051",
+        "importance": "nice-to-have",
+        "minYears": 0
+      }
+    ]
+  },
+  {
+    "id": "job-003",
+    "title": "Staff Backend Engineer",
+    "seniority": "Staff",
+    "location": "Remote",
+    "status": "open",
+    "postedDate": "2026-06-14",
+    "companyId": "company-001",
+    "requiresSkills": [
+      {
+        "skillId": "skill-004",
+        "importance": "required",
+        "minYears": 5
+      },
+      {
+        "skillId": "skill-016",
+        "importance": "required",
+        "minYears": 5
+      },
+      {
+        "skillId": "skill-003",
+        "importance": "required",
+        "minYears": 4
+      },
+      {
+        "skillId": "skill-052",
+        "importance": "nice-to-have",
+        "minYears": 2
+      },
+      {
+        "skillId": "skill-051",
+        "importance": "nice-to-have",
+        "minYears": 1
+      }
+    ]
+  },
+  {
+    "id": "job-004",
+    "title": "Lead API Engineer",
+    "seniority": "Lead",
+    "location": "Atlanta, GA",
+    "status": "open",
+    "postedDate": "2026-07-16",
+    "companyId": "company-001",
+    "requiresSkills": [
+      {
+        "skillId": "skill-019",
+        "importance": "required",
+        "minYears": 2
+      },
+      {
+        "skillId": "skill-003",
+        "importance": "required",
+        "minYears": 4
+      },
+      {
+        "skillId": "skill-004",
+        "importance": "required",
+        "minYears": 3
+      },
+      {
+        "skillId": "skill-033",
+        "importance": "required",
+        "minYears": 1
+      },
+      {
+        "skillId": "skill-018",
+        "importance": "nice-to-have",
+        "minYears": 1
+      }
+    ]
+  },
+  {
+    "id": "job-005",
+    "title": "Lead Data Scientist",
+    "seniority": "Lead",
+    "location": "Raleigh, NC",
+    "status": "open",
+    "postedDate": "2026-08-23",
+    "companyId": "company-002",
+    "requiresSkills": [
+      {
+        "skillId": "skill-044",
+        "importance": "required",
+        "minYears": 4
+      },
+      {
+        "skillId": "skill-040",
+        "importance": "required",
+        "minYears": 3
+      },
+      {
+        "skillId": "skill-046",
+        "importance": "nice-to-have",
+        "minYears": 1
+      },
+      {
+        "skillId": "skill-041",
+        "importance": "nice-to-have",
+        "minYears": 2
+      }
+    ]
+  },
+  {
+    "id": "job-006",
+    "title": "Staff Full-Stack Developer",
+    "seniority": "Staff",
+    "location": "Boston, MA",
+    "status": "open",
+    "postedDate": "2026-06-02",
+    "companyId": "company-002",
+    "requiresSkills": [
+      {
+        "skillId": "skill-033",
+        "importance": "required",
+        "minYears": 1
+      },
+      {
+        "skillId": "skill-001",
+        "importance": "required",
+        "minYears": 2
+      },
+      {
+        "skillId": "skill-002",
+        "importance": "required",
+        "minYears": 4
+      },
+      {
+        "skillId": "skill-015",
+        "importance": "required",
+        "minYears": 4
+      },
+      {
+        "skillId": "skill-050",
+        "importance": "nice-to-have",
+        "minYears": 1
+      },
+      {
+        "skillId": "skill-048",
+        "importance": "nice-to-have",
+        "minYears": 2
+      }
+    ]
+  },
+  {
+    "id": "job-007",
+    "title": "Staff Frontend Engineer",
+    "seniority": "Staff",
+    "location": "London, UK",
+    "status": "open",
+    "postedDate": "2026-06-11",
+    "companyId": "company-003",
+    "requiresSkills": [
+      {
+        "skillId": "skill-013",
+        "importance": "required",
+        "minYears": 5
+      },
+      {
+        "skillId": "skill-014",
+        "importance": "required",
+        "minYears": 4
+      },
+      {
+        "skillId": "skill-001",
+        "importance": "required",
+        "minYears": 2
+      },
+      {
+        "skillId": "skill-049",
+        "importance": "nice-to-have",
+        "minYears": 0
+      }
+    ]
+  },
+  {
+    "id": "job-008",
+    "title": "Mid Machine Learning Engineer",
+    "seniority": "Mid",
+    "location": "New York, NY",
+    "status": "open",
+    "postedDate": "2026-05-23",
+    "companyId": "company-003",
+    "requiresSkills": [
+      {
+        "skillId": "skill-003",
+        "importance": "required",
+        "minYears": 3
+      },
+      {
+        "skillId": "skill-044",
+        "importance": "required",
+        "minYears": 2
+      },
+      {
+        "skillId": "skill-050",
+        "importance": "nice-to-have",
+        "minYears": 1
+      },
+      {
+        "skillId": "skill-040",
+        "importance": "nice-to-have",
+        "minYears": 1
+      }
+    ]
+  },
+  {
+    "id": "job-009",
+    "title": "Lead Full-Stack Engineer",
+    "seniority": "Lead",
+    "location": "New York, NY",
+    "status": "open",
+    "postedDate": "2026-05-31",
+    "companyId": "company-003",
+    "requiresSkills": [
+      {
+        "skillId": "skill-002",
+        "importance": "required",
+        "minYears": 5
+      },
+      {
+        "skillId": "skill-015",
+        "importance": "required",
+        "minYears": 1
+      },
+      {
+        "skillId": "skill-016",
+        "importance": "required",
+        "minYears": 1
+      },
+      {
+        "skillId": "skill-050",
+        "importance": "nice-to-have",
+        "minYears": 1
+      },
+      {
+        "skillId": "skill-033",
+        "importance": "nice-to-have",
+        "minYears": 0
+      }
+    ]
+  },
+  {
+    "id": "job-010",
+    "title": "Lead Full-Stack Developer",
+    "seniority": "Lead",
+    "location": "Chicago, IL",
+    "status": "open",
+    "postedDate": "2026-06-26",
+    "companyId": "company-003",
+    "requiresSkills": [
+      {
+        "skillId": "skill-029",
+        "importance": "required",
+        "minYears": 3
+      },
+      {
+        "skillId": "skill-016",
+        "importance": "required",
+        "minYears": 4
+      },
+      {
+        "skillId": "skill-015",
+        "importance": "nice-to-have",
+        "minYears": 2
+      }
+    ]
+  },
+  {
+    "id": "job-011",
+    "title": "Lead Frontend Developer",
+    "seniority": "Lead",
+    "location": "Austin, TX",
+    "status": "open",
+    "postedDate": "2026-06-26",
+    "companyId": "company-004",
+    "requiresSkills": [
+      {
+        "skillId": "skill-011",
+        "importance": "required",
+        "minYears": 3
+      },
+      {
+        "skillId": "skill-001",
+        "importance": "required",
+        "minYears": 1
+      },
+      {
+        "skillId": "skill-014",
+        "importance": "required",
+        "minYears": 3
+      },
+      {
+        "skillId": "skill-047",
+        "importance": "nice-to-have",
+        "minYears": 1
+      }
+    ]
+  },
+  {
+    "id": "job-012",
+    "title": "Staff Machine Learning Engineer",
+    "seniority": "Staff",
+    "location": "San Francisco, CA",
+    "status": "open",
+    "postedDate": "2026-05-31",
+    "companyId": "company-004",
+    "requiresSkills": [
+      {
+        "skillId": "skill-042",
+        "importance": "required",
+        "minYears": 3
+      },
+      {
+        "skillId": "skill-033",
+        "importance": "required",
+        "minYears": 5
+      },
+      {
+        "skillId": "skill-044",
+        "importance": "nice-to-have",
+        "minYears": 1
+      },
+      {
+        "skillId": "skill-048",
+        "importance": "nice-to-have",
+        "minYears": 1
+      }
+    ]
+  },
+  {
+    "id": "job-013",
+    "title": "Senior Cloud Engineer",
+    "seniority": "Senior",
+    "location": "Berlin, DE",
+    "status": "open",
+    "postedDate": "2026-07-30",
+    "companyId": "company-005",
+    "requiresSkills": [
+      {
+        "skillId": "skill-027",
+        "importance": "required",
+        "minYears": 5
+      },
+      {
+        "skillId": "skill-021",
+        "importance": "required",
+        "minYears": 5
+      },
+      {
+        "skillId": "skill-049",
+        "importance": "nice-to-have",
+        "minYears": 2
+      },
+      {
+        "skillId": "skill-046",
+        "importance": "nice-to-have",
+        "minYears": 0
+      }
+    ]
+  },
+  {
+    "id": "job-014",
+    "title": "Junior Full-Stack Engineer",
+    "seniority": "Junior",
+    "location": "Chicago, IL",
+    "status": "open",
+    "postedDate": "2026-08-07",
+    "companyId": "company-005",
+    "requiresSkills": [
+      {
+        "skillId": "skill-011",
+        "importance": "required",
+        "minYears": 5
+      },
+      {
+        "skillId": "skill-033",
+        "importance": "required",
+        "minYears": 3
+      },
+      {
+        "skillId": "skill-052",
+        "importance": "nice-to-have",
+        "minYears": 2
+      }
+    ]
+  },
+  {
+    "id": "job-015",
+    "title": "Senior DevOps Engineer",
+    "seniority": "Senior",
+    "location": "Raleigh, NC",
+    "status": "open",
+    "postedDate": "2026-06-10",
+    "companyId": "company-005",
+    "requiresSkills": [
+      {
+        "skillId": "skill-023",
+        "importance": "required",
+        "minYears": 5
+      },
+      {
+        "skillId": "skill-024",
+        "importance": "required",
+        "minYears": 4
+      },
+      {
+        "skillId": "skill-022",
+        "importance": "required",
+        "minYears": 1
+      },
+      {
+        "skillId": "skill-047",
+        "importance": "nice-to-have",
+        "minYears": 0
+      }
+    ]
+  },
+  {
+    "id": "job-016",
+    "title": "Junior Machine Learning Engineer",
+    "seniority": "Junior",
+    "location": "London, UK",
+    "status": "open",
+    "postedDate": "2026-08-22",
+    "companyId": "company-006",
+    "requiresSkills": [
+      {
+        "skillId": "skill-003",
+        "importance": "required",
+        "minYears": 5
+      },
+      {
+        "skillId": "skill-040",
+        "importance": "required",
+        "minYears": 2
+      },
+      {
+        "skillId": "skill-044",
+        "importance": "required",
+        "minYears": 1
+      },
+      {
+        "skillId": "skill-048",
+        "importance": "nice-to-have",
+        "minYears": 2
+      }
+    ]
+  },
+  {
+    "id": "job-017",
+    "title": "Mid DevOps Engineer",
+    "seniority": "Mid",
+    "location": "New York, NY",
+    "status": "open",
+    "postedDate": "2026-06-24",
+    "companyId": "company-006",
+    "requiresSkills": [
+      {
+        "skillId": "skill-027",
+        "importance": "required",
+        "minYears": 1
+      },
+      {
+        "skillId": "skill-023",
+        "importance": "required",
+        "minYears": 1
+      },
+      {
+        "skillId": "skill-022",
+        "importance": "required",
+        "minYears": 1
+      },
+      {
+        "skillId": "skill-028",
+        "importance": "required",
+        "minYears": 4
+      },
+      {
+        "skillId": "skill-025",
+        "importance": "nice-to-have",
+        "minYears": 0
+      }
+    ]
+  },
+  {
+    "id": "job-018",
+    "title": "Staff Data Analyst",
+    "seniority": "Staff",
+    "location": "Toronto, ON",
+    "status": "open",
+    "postedDate": "2026-05-17",
+    "companyId": "company-007",
+    "requiresSkills": [
+      {
+        "skillId": "skill-044",
+        "importance": "required",
+        "minYears": 1
+      },
+      {
+        "skillId": "skill-042",
+        "importance": "required",
+        "minYears": 3
+      },
+      {
+        "skillId": "skill-003",
+        "importance": "nice-to-have",
+        "minYears": 2
+      }
+    ]
+  },
+  {
+    "id": "job-019",
+    "title": "Senior Machine Learning Engineer",
+    "seniority": "Senior",
+    "location": "Bangalore, IN",
+    "status": "open",
+    "postedDate": "2026-06-07",
+    "companyId": "company-007",
+    "requiresSkills": [
+      {
+        "skillId": "skill-033",
+        "importance": "required",
+        "minYears": 5
+      },
+      {
+        "skillId": "skill-041",
+        "importance": "required",
+        "minYears": 5
+      },
+      {
+        "skillId": "skill-043",
+        "importance": "required",
+        "minYears": 5
+      },
+      {
+        "skillId": "skill-038",
+        "importance": "required",
+        "minYears": 1
+      },
+      {
+        "skillId": "skill-052",
+        "importance": "nice-to-have",
+        "minYears": 1
+      },
+      {
+        "skillId": "skill-042",
+        "importance": "nice-to-have",
+        "minYears": 0
+      }
+    ]
+  },
+  {
+    "id": "job-020",
+    "title": "Senior Data Scientist",
+    "seniority": "Senior",
+    "location": "Denver, CO",
+    "status": "open",
+    "postedDate": "2026-08-19",
+    "companyId": "company-007",
+    "requiresSkills": [
+      {
+        "skillId": "skill-042",
+        "importance": "required",
+        "minYears": 4
+      },
+      {
+        "skillId": "skill-043",
+        "importance": "required",
+        "minYears": 1
+      },
+      {
+        "skillId": "skill-052",
+        "importance": "nice-to-have",
+        "minYears": 1
+      }
+    ]
+  },
+  {
+    "id": "job-021",
+    "title": "Senior Frontend Developer",
+    "seniority": "Senior",
+    "location": "Remote",
+    "status": "open",
+    "postedDate": "2026-06-28",
+    "companyId": "company-008",
+    "requiresSkills": [
+      {
+        "skillId": "skill-002",
+        "importance": "required",
+        "minYears": 5
+      },
+      {
+        "skillId": "skill-014",
+        "importance": "required",
+        "minYears": 1
+      },
+      {
+        "skillId": "skill-011",
+        "importance": "required",
+        "minYears": 5
+      },
+      {
+        "skillId": "skill-012",
+        "importance": "required",
+        "minYears": 3
+      },
+      {
+        "skillId": "skill-046",
+        "importance": "nice-to-have",
+        "minYears": 0
+      },
+      {
+        "skillId": "skill-048",
+        "importance": "nice-to-have",
+        "minYears": 0
+      }
+    ]
+  },
+  {
+    "id": "job-022",
+    "title": "Staff Full-Stack Developer",
+    "seniority": "Staff",
+    "location": "Chicago, IL",
+    "status": "open",
+    "postedDate": "2026-08-12",
+    "companyId": "company-008",
+    "requiresSkills": [
+      {
+        "skillId": "skill-002",
+        "importance": "required",
+        "minYears": 1
+      },
+      {
+        "skillId": "skill-016",
+        "importance": "required",
+        "minYears": 1
+      },
+      {
+        "skillId": "skill-015",
+        "importance": "required",
+        "minYears": 2
+      },
+      {
+        "skillId": "skill-029",
+        "importance": "required",
+        "minYears": 1
+      },
+      {
+        "skillId": "skill-049",
+        "importance": "nice-to-have",
+        "minYears": 2
+      },
+      {
+        "skillId": "skill-033",
+        "importance": "nice-to-have",
+        "minYears": 2
+      }
+    ]
+  },
+  {
+    "id": "job-023",
+    "title": "Lead Frontend Engineer",
+    "seniority": "Lead",
+    "location": "Bangalore, IN",
+    "status": "open",
+    "postedDate": "2026-08-06",
+    "companyId": "company-008",
+    "requiresSkills": [
+      {
+        "skillId": "skill-001",
+        "importance": "required",
+        "minYears": 1
+      },
+      {
+        "skillId": "skill-012",
+        "importance": "required",
+        "minYears": 4
+      },
+      {
+        "skillId": "skill-045",
+        "importance": "nice-to-have",
+        "minYears": 2
+      }
+    ]
+  },
+  {
+    "id": "job-024",
+    "title": "Junior Site Reliability Engineer",
+    "seniority": "Junior",
+    "location": "Seattle, WA",
+    "status": "closed",
+    "postedDate": "2026-08-06",
+    "companyId": "company-009",
+    "requiresSkills": [
+      {
+        "skillId": "skill-023",
+        "importance": "required",
+        "minYears": 5
+      },
+      {
+        "skillId": "skill-021",
+        "importance": "required",
+        "minYears": 3
+      },
+      {
+        "skillId": "skill-027",
+        "importance": "required",
+        "minYears": 2
+      },
+      {
+        "skillId": "skill-026",
+        "importance": "nice-to-have",
+        "minYears": 2
+      },
+      {
+        "skillId": "skill-045",
+        "importance": "nice-to-have",
+        "minYears": 2
+      }
+    ]
+  },
+  {
+    "id": "job-025",
+    "title": "Staff API Engineer",
+    "seniority": "Staff",
+    "location": "New York, NY",
+    "status": "closed",
+    "postedDate": "2026-08-06",
+    "companyId": "company-009",
+    "requiresSkills": [
+      {
+        "skillId": "skill-020",
+        "importance": "required",
+        "minYears": 5
+      },
+      {
+        "skillId": "skill-016",
+        "importance": "required",
+        "minYears": 4
+      },
+      {
+        "skillId": "skill-030",
+        "importance": "required",
+        "minYears": 5
+      },
+      {
+        "skillId": "skill-033",
+        "importance": "required",
+        "minYears": 4
+      },
+      {
+        "skillId": "skill-047",
+        "importance": "nice-to-have",
+        "minYears": 1
+      }
+    ]
+  },
+  {
+    "id": "job-026",
+    "title": "Junior Full-Stack Developer",
+    "seniority": "Junior",
+    "location": "San Francisco, CA",
+    "status": "open",
+    "postedDate": "2026-08-13",
+    "companyId": "company-009",
+    "requiresSkills": [
+      {
+        "skillId": "skill-029",
+        "importance": "required",
+        "minYears": 5
+      },
+      {
+        "skillId": "skill-002",
+        "importance": "required",
+        "minYears": 4
+      },
+      {
+        "skillId": "skill-011",
+        "importance": "nice-to-have",
+        "minYears": 2
+      }
+    ]
+  },
+  {
+    "id": "job-027",
+    "title": "Staff Data Scientist",
+    "seniority": "Staff",
+    "location": "Denver, CO",
+    "status": "open",
+    "postedDate": "2026-07-12",
+    "companyId": "company-010",
+    "requiresSkills": [
+      {
+        "skillId": "skill-040",
+        "importance": "required",
+        "minYears": 1
+      },
+      {
+        "skillId": "skill-003",
+        "importance": "required",
+        "minYears": 4
+      },
+      {
+        "skillId": "skill-044",
+        "importance": "required",
+        "minYears": 5
+      },
+      {
+        "skillId": "skill-042",
+        "importance": "nice-to-have",
+        "minYears": 1
+      }
+    ]
+  },
+  {
+    "id": "job-028",
+    "title": "Lead DevOps Engineer",
+    "seniority": "Lead",
+    "location": "Chicago, IL",
+    "status": "closed",
+    "postedDate": "2026-07-07",
+    "companyId": "company-010",
+    "requiresSkills": [
+      {
+        "skillId": "skill-028",
+        "importance": "required",
+        "minYears": 3
+      },
+      {
+        "skillId": "skill-024",
+        "importance": "required",
+        "minYears": 2
+      },
+      {
+        "skillId": "skill-045",
+        "importance": "nice-to-have",
+        "minYears": 1
+      }
+    ]
+  },
+  {
+    "id": "job-029",
+    "title": "Lead Data Scientist",
+    "seniority": "Lead",
+    "location": "Raleigh, NC",
+    "status": "open",
+    "postedDate": "2026-06-04",
+    "companyId": "company-011",
+    "requiresSkills": [
+      {
+        "skillId": "skill-044",
+        "importance": "required",
+        "minYears": 3
+      },
+      {
+        "skillId": "skill-040",
+        "importance": "required",
+        "minYears": 3
+      },
+      {
+        "skillId": "skill-043",
+        "importance": "nice-to-have",
+        "minYears": 1
+      }
+    ]
+  },
+  {
+    "id": "job-030",
+    "title": "Lead Data Analyst",
+    "seniority": "Lead",
+    "location": "Boston, MA",
+    "status": "closed",
+    "postedDate": "2026-08-25",
+    "companyId": "company-011",
+    "requiresSkills": [
+      {
+        "skillId": "skill-041",
+        "importance": "required",
+        "minYears": 5
+      },
+      {
+        "skillId": "skill-042",
+        "importance": "required",
+        "minYears": 4
+      },
+      {
+        "skillId": "skill-003",
+        "importance": "required",
+        "minYears": 2
+      },
+      {
+        "skillId": "skill-040",
+        "importance": "nice-to-have",
+        "minYears": 1
+      }
+    ]
+  },
+  {
+    "id": "job-031",
+    "title": "Senior Full-Stack Engineer",
+    "seniority": "Senior",
+    "location": "San Francisco, CA",
+    "status": "open",
+    "postedDate": "2026-06-19",
+    "companyId": "company-011",
+    "requiresSkills": [
+      {
+        "skillId": "skill-002",
+        "importance": "required",
+        "minYears": 2
+      },
+      {
+        "skillId": "skill-001",
+        "importance": "required",
+        "minYears": 1
+      },
+      {
+        "skillId": "skill-047",
+        "importance": "nice-to-have",
+        "minYears": 0
+      },
+      {
+        "skillId": "skill-016",
+        "importance": "nice-to-have",
+        "minYears": 2
+      }
+    ]
+  },
+  {
+    "id": "job-032",
+    "title": "Lead Frontend Developer",
+    "seniority": "Lead",
+    "location": "Chicago, IL",
+    "status": "closed",
+    "postedDate": "2026-05-05",
+    "companyId": "company-012",
+    "requiresSkills": [
+      {
+        "skillId": "skill-001",
+        "importance": "required",
+        "minYears": 3
+      },
+      {
+        "skillId": "skill-002",
+        "importance": "required",
+        "minYears": 3
+      },
+      {
+        "skillId": "skill-013",
+        "importance": "required",
+        "minYears": 5
+      },
+      {
+        "skillId": "skill-012",
+        "importance": "required",
+        "minYears": 2
+      },
+      {
+        "skillId": "skill-045",
+        "importance": "nice-to-have",
+        "minYears": 1
+      }
+    ]
+  },
+  {
+    "id": "job-033",
+    "title": "Mid Full-Stack Engineer",
+    "seniority": "Mid",
+    "location": "Remote",
+    "status": "open",
+    "postedDate": "2026-08-25",
+    "companyId": "company-012",
+    "requiresSkills": [
+      {
+        "skillId": "skill-016",
+        "importance": "required",
+        "minYears": 3
+      },
+      {
+        "skillId": "skill-002",
+        "importance": "required",
+        "minYears": 5
+      },
+      {
+        "skillId": "skill-029",
+        "importance": "nice-to-have",
+        "minYears": 1
+      }
+    ]
+  },
+  {
+    "id": "job-034",
+    "title": "Junior Machine Learning Engineer",
+    "seniority": "Junior",
+    "location": "Bangalore, IN",
+    "status": "open",
+    "postedDate": "2026-08-06",
+    "companyId": "company-013",
+    "requiresSkills": [
+      {
+        "skillId": "skill-037",
+        "importance": "required",
+        "minYears": 1
+      },
+      {
+        "skillId": "skill-043",
+        "importance": "required",
+        "minYears": 2
+      },
+      {
+        "skillId": "skill-003",
+        "importance": "required",
+        "minYears": 1
+      },
+      {
+        "skillId": "skill-039",
+        "importance": "required",
+        "minYears": 5
+      },
+      {
+        "skillId": "skill-042",
+        "importance": "nice-to-have",
+        "minYears": 1
+      },
+      {
+        "skillId": "skill-052",
+        "importance": "nice-to-have",
+        "minYears": 1
+      }
+    ]
+  },
+  {
+    "id": "job-035",
+    "title": "Junior DevOps Engineer",
+    "seniority": "Junior",
+    "location": "San Francisco, CA",
+    "status": "open",
+    "postedDate": "2026-07-10",
+    "companyId": "company-013",
+    "requiresSkills": [
+      {
+        "skillId": "skill-024",
+        "importance": "required",
+        "minYears": 1
+      },
+      {
+        "skillId": "skill-027",
+        "importance": "required",
+        "minYears": 3
+      },
+      {
+        "skillId": "skill-023",
+        "importance": "required",
+        "minYears": 3
+      },
+      {
+        "skillId": "skill-025",
+        "importance": "required",
+        "minYears": 3
+      },
+      {
+        "skillId": "skill-050",
+        "importance": "nice-to-have",
+        "minYears": 1
+      }
+    ]
+  },
+  {
+    "id": "job-036",
+    "title": "Staff Data Analyst",
+    "seniority": "Staff",
+    "location": "Denver, CO",
+    "status": "closed",
+    "postedDate": "2026-05-22",
+    "companyId": "company-013",
+    "requiresSkills": [
+      {
+        "skillId": "skill-044",
+        "importance": "required",
+        "minYears": 4
+      },
+      {
+        "skillId": "skill-033",
+        "importance": "required",
+        "minYears": 3
+      },
+      {
+        "skillId": "skill-051",
+        "importance": "nice-to-have",
+        "minYears": 1
+      }
+    ]
+  },
+  {
+    "id": "job-037",
+    "title": "Senior Data Analyst",
+    "seniority": "Senior",
+    "location": "Remote",
+    "status": "open",
+    "postedDate": "2026-07-18",
+    "companyId": "company-013",
+    "requiresSkills": [
+      {
+        "skillId": "skill-043",
+        "importance": "required",
+        "minYears": 5
+      },
+      {
+        "skillId": "skill-037",
+        "importance": "required",
+        "minYears": 1
+      },
+      {
+        "skillId": "skill-033",
+        "importance": "required",
+        "minYears": 3
+      },
+      {
+        "skillId": "skill-039",
+        "importance": "required",
+        "minYears": 5
+      },
+      {
+        "skillId": "skill-046",
+        "importance": "nice-to-have",
+        "minYears": 0
+      },
+      {
+        "skillId": "skill-045",
+        "importance": "nice-to-have",
+        "minYears": 1
+      }
+    ]
+  },
+  {
+    "id": "job-038",
+    "title": "Mid Backend Developer",
+    "seniority": "Mid",
+    "location": "Austin, TX",
+    "status": "open",
+    "postedDate": "2026-04-29",
+    "companyId": "company-014",
+    "requiresSkills": [
+      {
+        "skillId": "skill-019",
+        "importance": "required",
+        "minYears": 3
+      },
+      {
+        "skillId": "skill-030",
+        "importance": "required",
+        "minYears": 4
+      },
+      {
+        "skillId": "skill-003",
+        "importance": "required",
+        "minYears": 2
+      },
+      {
+        "skillId": "skill-033",
+        "importance": "required",
+        "minYears": 3
+      },
+      {
+        "skillId": "skill-020",
+        "importance": "nice-to-have",
+        "minYears": 0
+      },
+      {
+        "skillId": "skill-045",
+        "importance": "nice-to-have",
+        "minYears": 2
+      }
+    ]
+  },
+  {
+    "id": "job-039",
+    "title": "Junior Data Analyst",
+    "seniority": "Junior",
+    "location": "Seattle, WA",
+    "status": "open",
+    "postedDate": "2026-05-09",
+    "companyId": "company-014",
+    "requiresSkills": [
+      {
+        "skillId": "skill-039",
+        "importance": "required",
+        "minYears": 5
+      },
+      {
+        "skillId": "skill-033",
+        "importance": "required",
+        "minYears": 2
+      },
+      {
+        "skillId": "skill-040",
+        "importance": "required",
+        "minYears": 3
+      },
+      {
+        "skillId": "skill-050",
+        "importance": "nice-to-have",
+        "minYears": 1
+      },
+      {
+        "skillId": "skill-038",
+        "importance": "nice-to-have",
+        "minYears": 0
+      }
+    ]
+  },
+  {
+    "id": "job-040",
+    "title": "Senior Frontend Engineer",
+    "seniority": "Senior",
+    "location": "London, UK",
+    "status": "closed",
+    "postedDate": "2026-08-16",
+    "companyId": "company-015",
+    "requiresSkills": [
+      {
+        "skillId": "skill-013",
+        "importance": "required",
+        "minYears": 3
+      },
+      {
+        "skillId": "skill-012",
+        "importance": "required",
+        "minYears": 5
+      },
+      {
+        "skillId": "skill-014",
+        "importance": "nice-to-have",
+        "minYears": 0
+      }
+    ]
+  },
+  {
+    "id": "job-041",
+    "title": "Lead Full-Stack Developer",
+    "seniority": "Lead",
+    "location": "Bangalore, IN",
+    "status": "open",
+    "postedDate": "2026-05-21",
+    "companyId": "company-015",
+    "requiresSkills": [
+      {
+        "skillId": "skill-011",
+        "importance": "required",
+        "minYears": 3
+      },
+      {
+        "skillId": "skill-001",
+        "importance": "required",
+        "minYears": 2
+      },
+      {
+        "skillId": "skill-029",
+        "importance": "required",
+        "minYears": 3
+      },
+      {
+        "skillId": "skill-002",
+        "importance": "required",
+        "minYears": 2
+      },
+      {
+        "skillId": "skill-051",
+        "importance": "nice-to-have",
+        "minYears": 0
+      }
+    ]
+  },
+  {
+    "id": "job-042",
+    "title": "Staff UI Engineer",
+    "seniority": "Staff",
+    "location": "Toronto, ON",
+    "status": "open",
+    "postedDate": "2026-06-13",
+    "companyId": "company-015",
+    "requiresSkills": [
+      {
+        "skillId": "skill-011",
+        "importance": "required",
+        "minYears": 5
+      },
+      {
+        "skillId": "skill-002",
+        "importance": "required",
+        "minYears": 5
+      },
+      {
+        "skillId": "skill-014",
+        "importance": "required",
+        "minYears": 1
+      },
+      {
+        "skillId": "skill-013",
+        "importance": "required",
+        "minYears": 1
+      },
+      {
+        "skillId": "skill-050",
+        "importance": "nice-to-have",
+        "minYears": 1
+      },
+      {
+        "skillId": "skill-048",
+        "importance": "nice-to-have",
+        "minYears": 0
+      }
+    ]
+  },
+  {
+    "id": "job-043",
+    "title": "Mid Data Analyst",
+    "seniority": "Mid",
+    "location": "Denver, CO",
+    "status": "open",
+    "postedDate": "2026-08-25",
+    "companyId": "company-015",
+    "requiresSkills": [
+      {
+        "skillId": "skill-041",
+        "importance": "required",
+        "minYears": 1
+      },
+      {
+        "skillId": "skill-037",
+        "importance": "required",
+        "minYears": 3
+      },
+      {
+        "skillId": "skill-043",
+        "importance": "nice-to-have",
+        "minYears": 0
+      }
+    ]
+  },
+  {
+    "id": "job-044",
+    "title": "Mid Site Reliability Engineer",
+    "seniority": "Mid",
+    "location": "Remote",
+    "status": "open",
+    "postedDate": "2026-07-02",
+    "companyId": "company-016",
+    "requiresSkills": [
+      {
+        "skillId": "skill-025",
+        "importance": "required",
+        "minYears": 2
+      },
+      {
+        "skillId": "skill-024",
+        "importance": "required",
+        "minYears": 2
+      },
+      {
+        "skillId": "skill-026",
+        "importance": "nice-to-have",
+        "minYears": 2
+      },
+      {
+        "skillId": "skill-023",
+        "importance": "nice-to-have",
+        "minYears": 0
+      }
+    ]
+  },
+  {
+    "id": "job-045",
+    "title": "Lead UI Engineer",
+    "seniority": "Lead",
+    "location": "Chicago, IL",
+    "status": "open",
+    "postedDate": "2026-07-19",
+    "companyId": "company-016",
+    "requiresSkills": [
+      {
+        "skillId": "skill-002",
+        "importance": "required",
+        "minYears": 4
+      },
+      {
+        "skillId": "skill-011",
+        "importance": "required",
+        "minYears": 1
+      },
+      {
+        "skillId": "skill-012",
+        "importance": "required",
+        "minYears": 3
+      },
+      {
+        "skillId": "skill-014",
+        "importance": "nice-to-have",
+        "minYears": 1
+      },
+      {
+        "skillId": "skill-047",
+        "importance": "nice-to-have",
+        "minYears": 0
+      }
+    ]
+  },
+  {
+    "id": "job-046",
+    "title": "Lead Data Analyst",
+    "seniority": "Lead",
+    "location": "Denver, CO",
+    "status": "open",
+    "postedDate": "2026-06-21",
+    "companyId": "company-016",
+    "requiresSkills": [
+      {
+        "skillId": "skill-037",
+        "importance": "required",
+        "minYears": 4
+      },
+      {
+        "skillId": "skill-044",
+        "importance": "required",
+        "minYears": 4
+      },
+      {
+        "skillId": "skill-049",
+        "importance": "nice-to-have",
+        "minYears": 0
+      },
+      {
+        "skillId": "skill-033",
+        "importance": "nice-to-have",
+        "minYears": 2
+      }
+    ]
+  },
+  {
+    "id": "job-047",
+    "title": "Junior Full-Stack Developer",
+    "seniority": "Junior",
+    "location": "Chicago, IL",
+    "status": "open",
+    "postedDate": "2026-06-06",
+    "companyId": "company-016",
+    "requiresSkills": [
+      {
+        "skillId": "skill-029",
+        "importance": "required",
+        "minYears": 3
+      },
+      {
+        "skillId": "skill-033",
+        "importance": "required",
+        "minYears": 5
+      },
+      {
+        "skillId": "skill-002",
+        "importance": "required",
+        "minYears": 4
+      },
+      {
+        "skillId": "skill-016",
+        "importance": "nice-to-have",
+        "minYears": 2
+      }
+    ]
+  },
+  {
+    "id": "job-048",
+    "title": "Lead Data Scientist",
+    "seniority": "Lead",
+    "location": "Remote",
+    "status": "open",
+    "postedDate": "2026-07-01",
+    "companyId": "company-017",
+    "requiresSkills": [
+      {
+        "skillId": "skill-003",
+        "importance": "required",
+        "minYears": 3
+      },
+      {
+        "skillId": "skill-044",
+        "importance": "required",
+        "minYears": 4
+      },
+      {
+        "skillId": "skill-041",
+        "importance": "required",
+        "minYears": 1
+      },
+      {
+        "skillId": "skill-038",
+        "importance": "nice-to-have",
+        "minYears": 1
+      }
+    ]
+  },
+  {
+    "id": "job-049",
+    "title": "Senior Frontend Developer",
+    "seniority": "Senior",
+    "location": "Austin, TX",
+    "status": "open",
+    "postedDate": "2026-08-10",
+    "companyId": "company-017",
+    "requiresSkills": [
+      {
+        "skillId": "skill-002",
+        "importance": "required",
+        "minYears": 5
+      },
+      {
+        "skillId": "skill-012",
+        "importance": "required",
+        "minYears": 3
+      },
+      {
+        "skillId": "skill-014",
+        "importance": "required",
+        "minYears": 2
+      },
+      {
+        "skillId": "skill-046",
+        "importance": "nice-to-have",
+        "minYears": 1
+      },
+      {
+        "skillId": "skill-049",
+        "importance": "nice-to-have",
+        "minYears": 0
+      }
+    ]
+  },
+  {
+    "id": "job-050",
+    "title": "Mid API Engineer",
+    "seniority": "Mid",
+    "location": "San Francisco, CA",
+    "status": "open",
+    "postedDate": "2026-08-24",
+    "companyId": "company-017",
+    "requiresSkills": [
+      {
+        "skillId": "skill-016",
+        "importance": "required",
+        "minYears": 1
+      },
+      {
+        "skillId": "skill-033",
+        "importance": "required",
+        "minYears": 4
+      },
+      {
+        "skillId": "skill-019",
+        "importance": "required",
+        "minYears": 4
+      },
+      {
+        "skillId": "skill-004",
+        "importance": "required",
+        "minYears": 2
+      },
+      {
+        "skillId": "skill-015",
+        "importance": "nice-to-have",
+        "minYears": 1
+      },
+      {
+        "skillId": "skill-051",
+        "importance": "nice-to-have",
+        "minYears": 1
+      }
+    ]
+  },
+  {
+    "id": "job-051",
+    "title": "Lead Backend Developer",
+    "seniority": "Lead",
+    "location": "Berlin, DE",
+    "status": "closed",
+    "postedDate": "2026-05-13",
+    "companyId": "company-018",
+    "requiresSkills": [
+      {
+        "skillId": "skill-003",
+        "importance": "required",
+        "minYears": 3
+      },
+      {
+        "skillId": "skill-017",
+        "importance": "required",
+        "minYears": 5
+      },
+      {
+        "skillId": "skill-004",
+        "importance": "required",
+        "minYears": 1
+      },
+      {
+        "skillId": "skill-052",
+        "importance": "nice-to-have",
+        "minYears": 2
+      }
+    ]
+  },
+  {
+    "id": "job-052",
+    "title": "Mid API Engineer",
+    "seniority": "Mid",
+    "location": "Austin, TX",
+    "status": "open",
+    "postedDate": "2026-06-15",
+    "companyId": "company-018",
+    "requiresSkills": [
+      {
+        "skillId": "skill-015",
+        "importance": "required",
+        "minYears": 5
+      },
+      {
+        "skillId": "skill-016",
+        "importance": "required",
+        "minYears": 1
+      },
+      {
+        "skillId": "skill-004",
+        "importance": "required",
+        "minYears": 1
+      },
+      {
+        "skillId": "skill-030",
+        "importance": "nice-to-have",
+        "minYears": 1
+      }
+    ]
+  },
+  {
+    "id": "job-053",
+    "title": "Staff Backend Developer",
+    "seniority": "Staff",
+    "location": "Raleigh, NC",
+    "status": "open",
+    "postedDate": "2026-07-04",
+    "companyId": "company-019",
+    "requiresSkills": [
+      {
+        "skillId": "skill-019",
+        "importance": "required",
+        "minYears": 4
+      },
+      {
+        "skillId": "skill-030",
+        "importance": "required",
+        "minYears": 2
+      },
+      {
+        "skillId": "skill-052",
+        "importance": "nice-to-have",
+        "minYears": 0
+      }
+    ]
+  },
+  {
+    "id": "job-054",
+    "title": "Mid Full-Stack Engineer",
+    "seniority": "Mid",
+    "location": "Portland, OR",
+    "status": "open",
+    "postedDate": "2026-05-07",
+    "companyId": "company-019",
+    "requiresSkills": [
+      {
+        "skillId": "skill-002",
+        "importance": "required",
+        "minYears": 1
+      },
+      {
+        "skillId": "skill-001",
+        "importance": "required",
+        "minYears": 4
+      },
+      {
+        "skillId": "skill-015",
+        "importance": "required",
+        "minYears": 1
+      },
+      {
+        "skillId": "skill-016",
+        "importance": "required",
+        "minYears": 1
+      },
+      {
+        "skillId": "skill-045",
+        "importance": "nice-to-have",
+        "minYears": 0
+      }
+    ]
+  },
+  {
+    "id": "job-055",
+    "title": "Junior Data Scientist",
+    "seniority": "Junior",
+    "location": "New York, NY",
+    "status": "open",
+    "postedDate": "2026-08-11",
+    "companyId": "company-019",
+    "requiresSkills": [
+      {
+        "skillId": "skill-003",
+        "importance": "required",
+        "minYears": 2
+      },
+      {
+        "skillId": "skill-039",
+        "importance": "required",
+        "minYears": 5
+      },
+      {
+        "skillId": "skill-043",
+        "importance": "required",
+        "minYears": 3
+      },
+      {
+        "skillId": "skill-033",
+        "importance": "required",
+        "minYears": 4
+      },
+      {
+        "skillId": "skill-047",
+        "importance": "nice-to-have",
+        "minYears": 1
+      }
+    ]
+  },
+  {
+    "id": "job-056",
+    "title": "Staff Full-Stack Developer",
+    "seniority": "Staff",
+    "location": "London, UK",
+    "status": "open",
+    "postedDate": "2026-07-25",
+    "companyId": "company-020",
+    "requiresSkills": [
+      {
+        "skillId": "skill-011",
+        "importance": "required",
+        "minYears": 4
+      },
+      {
+        "skillId": "skill-001",
+        "importance": "required",
+        "minYears": 3
+      },
+      {
+        "skillId": "skill-033",
+        "importance": "required",
+        "minYears": 1
+      },
+      {
+        "skillId": "skill-015",
+        "importance": "required",
+        "minYears": 1
+      },
+      {
+        "skillId": "skill-048",
+        "importance": "nice-to-have",
+        "minYears": 2
+      }
+    ]
+  },
+  {
+    "id": "job-057",
+    "title": "Senior Backend Engineer",
+    "seniority": "Senior",
+    "location": "Toronto, ON",
+    "status": "open",
+    "postedDate": "2026-05-26",
+    "companyId": "company-020",
+    "requiresSkills": [
+      {
+        "skillId": "skill-016",
+        "importance": "required",
+        "minYears": 1
+      },
+      {
+        "skillId": "skill-033",
+        "importance": "required",
+        "minYears": 2
+      },
+      {
+        "skillId": "skill-003",
+        "importance": "required",
+        "minYears": 3
+      },
+      {
+        "skillId": "skill-046",
+        "importance": "nice-to-have",
+        "minYears": 0
+      },
+      {
+        "skillId": "skill-045",
+        "importance": "nice-to-have",
+        "minYears": 0
+      }
+    ]
+  },
+  {
+    "id": "job-058",
+    "title": "Lead Frontend Engineer",
+    "seniority": "Lead",
+    "location": "Bangalore, IN",
+    "status": "open",
+    "postedDate": "2026-05-04",
+    "companyId": "company-020",
+    "requiresSkills": [
+      {
+        "skillId": "skill-002",
+        "importance": "required",
+        "minYears": 3
+      },
+      {
+        "skillId": "skill-011",
+        "importance": "required",
+        "minYears": 5
+      },
+      {
+        "skillId": "skill-014",
+        "importance": "required",
+        "minYears": 4
+      },
+      {
+        "skillId": "skill-052",
+        "importance": "nice-to-have",
+        "minYears": 2
+      }
+    ]
+  },
+  {
+    "id": "job-059",
+    "title": "Lead Backend Engineer",
+    "seniority": "Lead",
+    "location": "London, UK",
+    "status": "open",
+    "postedDate": "2026-07-15",
+    "companyId": "company-021",
+    "requiresSkills": [
+      {
+        "skillId": "skill-019",
+        "importance": "required",
+        "minYears": 4
+      },
+      {
+        "skillId": "skill-003",
+        "importance": "required",
+        "minYears": 2
+      },
+      {
+        "skillId": "skill-016",
+        "importance": "required",
+        "minYears": 3
+      },
+      {
+        "skillId": "skill-033",
+        "importance": "required",
+        "minYears": 1
+      },
+      {
+        "skillId": "skill-020",
+        "importance": "nice-to-have",
+        "minYears": 0
+      },
+      {
+        "skillId": "skill-015",
+        "importance": "nice-to-have",
+        "minYears": 2
+      }
+    ]
+  },
+  {
+    "id": "job-060",
+    "title": "Mid DevOps Engineer",
+    "seniority": "Mid",
+    "location": "Remote",
+    "status": "open",
+    "postedDate": "2026-08-19",
+    "companyId": "company-021",
+    "requiresSkills": [
+      {
+        "skillId": "skill-024",
+        "importance": "required",
+        "minYears": 5
+      },
+      {
+        "skillId": "skill-028",
+        "importance": "required",
+        "minYears": 2
+      },
+      {
+        "skillId": "skill-025",
+        "importance": "required",
+        "minYears": 5
+      },
+      {
+        "skillId": "skill-027",
+        "importance": "required",
+        "minYears": 3
+      },
+      {
+        "skillId": "skill-045",
+        "importance": "nice-to-have",
+        "minYears": 2
+      }
+    ]
+  },
+  {
+    "id": "job-061",
+    "title": "Mid Full-Stack Developer",
+    "seniority": "Mid",
+    "location": "Atlanta, GA",
+    "status": "open",
+    "postedDate": "2026-07-05",
+    "companyId": "company-021",
+    "requiresSkills": [
+      {
+        "skillId": "skill-033",
+        "importance": "required",
+        "minYears": 5
+      },
+      {
+        "skillId": "skill-002",
+        "importance": "required",
+        "minYears": 5
+      },
+      {
+        "skillId": "skill-001",
+        "importance": "required",
+        "minYears": 4
+      },
+      {
+        "skillId": "skill-011",
+        "importance": "nice-to-have",
+        "minYears": 2
+      }
+    ]
+  },
+  {
+    "id": "job-062",
+    "title": "Junior Full-Stack Engineer",
+    "seniority": "Junior",
+    "location": "Denver, CO",
+    "status": "closed",
+    "postedDate": "2026-07-07",
+    "companyId": "company-021",
+    "requiresSkills": [
+      {
+        "skillId": "skill-002",
+        "importance": "required",
+        "minYears": 4
+      },
+      {
+        "skillId": "skill-033",
+        "importance": "required",
+        "minYears": 1
+      },
+      {
+        "skillId": "skill-045",
+        "importance": "nice-to-have",
+        "minYears": 0
+      }
+    ]
+  },
+  {
+    "id": "job-063",
+    "title": "Lead Cloud Engineer",
+    "seniority": "Lead",
+    "location": "Portland, OR",
+    "status": "closed",
+    "postedDate": "2026-05-20",
+    "companyId": "company-022",
+    "requiresSkills": [
+      {
+        "skillId": "skill-027",
+        "importance": "required",
+        "minYears": 4
+      },
+      {
+        "skillId": "skill-028",
+        "importance": "required",
+        "minYears": 5
+      },
+      {
+        "skillId": "skill-022",
+        "importance": "required",
+        "minYears": 4
+      },
+      {
+        "skillId": "skill-026",
+        "importance": "required",
+        "minYears": 4
+      },
+      {
+        "skillId": "skill-023",
+        "importance": "nice-to-have",
+        "minYears": 0
+      },
+      {
+        "skillId": "skill-021",
+        "importance": "nice-to-have",
+        "minYears": 2
+      }
+    ]
+  },
+  {
+    "id": "job-064",
+    "title": "Senior Backend Engineer",
+    "seniority": "Senior",
+    "location": "Remote",
+    "status": "open",
+    "postedDate": "2026-06-06",
+    "companyId": "company-022",
+    "requiresSkills": [
+      {
+        "skillId": "skill-033",
+        "importance": "required",
+        "minYears": 4
+      },
+      {
+        "skillId": "skill-015",
+        "importance": "required",
+        "minYears": 1
+      },
+      {
+        "skillId": "skill-003",
+        "importance": "required",
+        "minYears": 3
+      },
+      {
+        "skillId": "skill-019",
+        "importance": "required",
+        "minYears": 3
+      },
+      {
+        "skillId": "skill-051",
+        "importance": "nice-to-have",
+        "minYears": 2
+      },
+      {
+        "skillId": "skill-004",
+        "importance": "nice-to-have",
+        "minYears": 2
+      }
+    ]
+  },
+  {
+    "id": "job-065",
+    "title": "Senior DevOps Engineer",
+    "seniority": "Senior",
+    "location": "New York, NY",
+    "status": "open",
+    "postedDate": "2026-05-24",
+    "companyId": "company-023",
+    "requiresSkills": [
+      {
+        "skillId": "skill-024",
+        "importance": "required",
+        "minYears": 3
+      },
+      {
+        "skillId": "skill-025",
+        "importance": "required",
+        "minYears": 2
+      },
+      {
+        "skillId": "skill-026",
+        "importance": "required",
+        "minYears": 3
+      },
+      {
+        "skillId": "skill-027",
+        "importance": "required",
+        "minYears": 1
+      },
+      {
+        "skillId": "skill-049",
+        "importance": "nice-to-have",
+        "minYears": 2
+      },
+      {
+        "skillId": "skill-023",
+        "importance": "nice-to-have",
+        "minYears": 1
+      }
+    ]
+  },
+  {
+    "id": "job-066",
+    "title": "Junior UI Engineer",
+    "seniority": "Junior",
+    "location": "Raleigh, NC",
+    "status": "open",
+    "postedDate": "2026-06-26",
+    "companyId": "company-023",
+    "requiresSkills": [
+      {
+        "skillId": "skill-014",
+        "importance": "required",
+        "minYears": 1
+      },
+      {
+        "skillId": "skill-002",
+        "importance": "required",
+        "minYears": 4
+      },
+      {
+        "skillId": "skill-013",
+        "importance": "required",
+        "minYears": 2
+      },
+      {
+        "skillId": "skill-049",
+        "importance": "nice-to-have",
+        "minYears": 2
+      }
+    ]
+  },
+  {
+    "id": "job-067",
+    "title": "Staff Data Scientist",
+    "seniority": "Staff",
+    "location": "Denver, CO",
+    "status": "closed",
+    "postedDate": "2026-05-20",
+    "companyId": "company-024",
+    "requiresSkills": [
+      {
+        "skillId": "skill-043",
+        "importance": "required",
+        "minYears": 1
+      },
+      {
+        "skillId": "skill-003",
+        "importance": "required",
+        "minYears": 1
+      },
+      {
+        "skillId": "skill-044",
+        "importance": "required",
+        "minYears": 5
+      },
+      {
+        "skillId": "skill-037",
+        "importance": "required",
+        "minYears": 2
+      },
+      {
+        "skillId": "skill-049",
+        "importance": "nice-to-have",
+        "minYears": 1
+      }
+    ]
+  },
+  {
+    "id": "job-068",
+    "title": "Senior Cloud Engineer",
+    "seniority": "Senior",
+    "location": "Austin, TX",
+    "status": "open",
+    "postedDate": "2026-08-08",
+    "companyId": "company-024",
+    "requiresSkills": [
+      {
+        "skillId": "skill-025",
+        "importance": "required",
+        "minYears": 4
+      },
+      {
+        "skillId": "skill-023",
+        "importance": "required",
+        "minYears": 1
+      },
+      {
+        "skillId": "skill-021",
+        "importance": "required",
+        "minYears": 4
+      },
+      {
+        "skillId": "skill-028",
+        "importance": "nice-to-have",
+        "minYears": 0
+      }
+    ]
+  },
+  {
+    "id": "job-069",
+    "title": "Lead Site Reliability Engineer",
+    "seniority": "Lead",
+    "location": "Remote",
+    "status": "open",
+    "postedDate": "2026-05-12",
+    "companyId": "company-025",
+    "requiresSkills": [
+      {
+        "skillId": "skill-027",
+        "importance": "required",
+        "minYears": 5
+      },
+      {
+        "skillId": "skill-023",
+        "importance": "required",
+        "minYears": 2
+      },
+      {
+        "skillId": "skill-024",
+        "importance": "nice-to-have",
+        "minYears": 2
+      },
+      {
+        "skillId": "skill-021",
+        "importance": "nice-to-have",
+        "minYears": 2
+      }
+    ]
+  },
+  {
+    "id": "job-070",
+    "title": "Senior API Engineer",
+    "seniority": "Senior",
+    "location": "Austin, TX",
+    "status": "closed",
+    "postedDate": "2026-07-14",
+    "companyId": "company-025",
+    "requiresSkills": [
+      {
+        "skillId": "skill-033",
+        "importance": "required",
+        "minYears": 1
+      },
+      {
+        "skillId": "skill-015",
+        "importance": "required",
+        "minYears": 5
+      },
+      {
+        "skillId": "skill-003",
+        "importance": "nice-to-have",
+        "minYears": 0
+      },
+      {
+        "skillId": "skill-029",
+        "importance": "nice-to-have",
+        "minYears": 0
+      }
+    ]
+  },
+  {
+    "id": "job-071",
+    "title": "Senior Backend Developer",
+    "seniority": "Senior",
+    "location": "Seattle, WA",
+    "status": "open",
+    "postedDate": "2026-06-30",
+    "companyId": "company-025",
+    "requiresSkills": [
+      {
+        "skillId": "skill-017",
+        "importance": "required",
+        "minYears": 4
+      },
+      {
+        "skillId": "skill-020",
+        "importance": "required",
+        "minYears": 5
+      },
+      {
+        "skillId": "skill-019",
+        "importance": "required",
+        "minYears": 5
+      },
+      {
+        "skillId": "skill-016",
+        "importance": "nice-to-have",
+        "minYears": 0
+      }
+    ]
+  },
+  {
+    "id": "job-072",
+    "title": "Senior Frontend Engineer",
+    "seniority": "Senior",
+    "location": "Remote",
+    "status": "closed",
+    "postedDate": "2026-07-06",
+    "companyId": "company-026",
+    "requiresSkills": [
+      {
+        "skillId": "skill-013",
+        "importance": "required",
+        "minYears": 5
+      },
+      {
+        "skillId": "skill-002",
+        "importance": "required",
+        "minYears": 4
+      },
+      {
+        "skillId": "skill-014",
+        "importance": "required",
+        "minYears": 2
+      },
+      {
+        "skillId": "skill-049",
+        "importance": "nice-to-have",
+        "minYears": 0
+      }
+    ]
+  },
+  {
+    "id": "job-073",
+    "title": "Staff Machine Learning Engineer",
+    "seniority": "Staff",
+    "location": "Bangalore, IN",
+    "status": "open",
+    "postedDate": "2026-05-12",
+    "companyId": "company-026",
+    "requiresSkills": [
+      {
+        "skillId": "skill-040",
+        "importance": "required",
+        "minYears": 5
+      },
+      {
+        "skillId": "skill-003",
+        "importance": "required",
+        "minYears": 4
+      },
+      {
+        "skillId": "skill-044",
+        "importance": "required",
+        "minYears": 3
+      },
+      {
+        "skillId": "skill-037",
+        "importance": "required",
+        "minYears": 1
+      },
+      {
+        "skillId": "skill-049",
+        "importance": "nice-to-have",
+        "minYears": 0
+      },
+      {
+        "skillId": "skill-052",
+        "importance": "nice-to-have",
+        "minYears": 1
+      }
+    ]
+  },
+  {
+    "id": "job-074",
+    "title": "Senior Site Reliability Engineer",
+    "seniority": "Senior",
+    "location": "San Francisco, CA",
+    "status": "open",
+    "postedDate": "2026-07-25",
+    "companyId": "company-026",
+    "requiresSkills": [
+      {
+        "skillId": "skill-026",
+        "importance": "required",
+        "minYears": 1
+      },
+      {
+        "skillId": "skill-023",
+        "importance": "required",
+        "minYears": 5
+      },
+      {
+        "skillId": "skill-024",
+        "importance": "nice-to-have",
+        "minYears": 1
+      }
+    ]
+  },
+  {
+    "id": "job-075",
+    "title": "Mid Backend Engineer",
+    "seniority": "Mid",
+    "location": "Seattle, WA",
+    "status": "closed",
+    "postedDate": "2026-07-16",
+    "companyId": "company-026",
+    "requiresSkills": [
+      {
+        "skillId": "skill-020",
+        "importance": "required",
+        "minYears": 4
+      },
+      {
+        "skillId": "skill-019",
+        "importance": "required",
+        "minYears": 4
+      },
+      {
+        "skillId": "skill-033",
+        "importance": "required",
+        "minYears": 1
+      },
+      {
+        "skillId": "skill-017",
+        "importance": "required",
+        "minYears": 2
+      },
+      {
+        "skillId": "skill-047",
+        "importance": "nice-to-have",
+        "minYears": 0
+      }
+    ]
+  }
+]

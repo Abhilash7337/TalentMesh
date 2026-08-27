@@ -1,0 +1,262 @@
+[
+  {
+    "id": "skill-001",
+    "name": "JavaScript",
+    "category": "language"
+  },
+  {
+    "id": "skill-002",
+    "name": "TypeScript",
+    "category": "language"
+  },
+  {
+    "id": "skill-003",
+    "name": "Python",
+    "category": "language"
+  },
+  {
+    "id": "skill-004",
+    "name": "Java",
+    "category": "language"
+  },
+  {
+    "id": "skill-005",
+    "name": "Go",
+    "category": "language"
+  },
+  {
+    "id": "skill-006",
+    "name": "Rust",
+    "category": "language"
+  },
+  {
+    "id": "skill-007",
+    "name": "C++",
+    "category": "language"
+  },
+  {
+    "id": "skill-008",
+    "name": "C#",
+    "category": "language"
+  },
+  {
+    "id": "skill-009",
+    "name": "Ruby",
+    "category": "language"
+  },
+  {
+    "id": "skill-010",
+    "name": "PHP",
+    "category": "language"
+  },
+  {
+    "id": "skill-011",
+    "name": "React",
+    "category": "framework"
+  },
+  {
+    "id": "skill-012",
+    "name": "Vue.js",
+    "category": "framework"
+  },
+  {
+    "id": "skill-013",
+    "name": "Angular",
+    "category": "framework"
+  },
+  {
+    "id": "skill-014",
+    "name": "Next.js",
+    "category": "framework"
+  },
+  {
+    "id": "skill-015",
+    "name": "Node.js",
+    "category": "framework"
+  },
+  {
+    "id": "skill-016",
+    "name": "Express",
+    "category": "framework"
+  },
+  {
+    "id": "skill-017",
+    "name": "Django",
+    "category": "framework"
+  },
+  {
+    "id": "skill-018",
+    "name": "Flask",
+    "category": "framework"
+  },
+  {
+    "id": "skill-019",
+    "name": "Spring Boot",
+    "category": "framework"
+  },
+  {
+    "id": "skill-020",
+    "name": "FastAPI",
+    "category": "framework"
+  },
+  {
+    "id": "skill-021",
+    "name": "AWS",
+    "category": "cloud"
+  },
+  {
+    "id": "skill-022",
+    "name": "Azure",
+    "category": "cloud"
+  },
+  {
+    "id": "skill-023",
+    "name": "GCP",
+    "category": "cloud"
+  },
+  {
+    "id": "skill-024",
+    "name": "Docker",
+    "category": "cloud"
+  },
+  {
+    "id": "skill-025",
+    "name": "Kubernetes",
+    "category": "cloud"
+  },
+  {
+    "id": "skill-026",
+    "name": "Terraform",
+    "category": "cloud"
+  },
+  {
+    "id": "skill-027",
+    "name": "CI/CD",
+    "category": "cloud"
+  },
+  {
+    "id": "skill-028",
+    "name": "Serverless",
+    "category": "cloud"
+  },
+  {
+    "id": "skill-029",
+    "name": "PostgreSQL",
+    "category": "database"
+  },
+  {
+    "id": "skill-030",
+    "name": "MySQL",
+    "category": "database"
+  },
+  {
+    "id": "skill-031",
+    "name": "MongoDB",
+    "category": "database"
+  },
+  {
+    "id": "skill-032",
+    "name": "Redis",
+    "category": "database"
+  },
+  {
+    "id": "skill-033",
+    "name": "SQL",
+    "category": "database"
+  },
+  {
+    "id": "skill-034",
+    "name": "Database Design",
+    "category": "database"
+  },
+  {
+    "id": "skill-035",
+    "name": "Elasticsearch",
+    "category": "database"
+  },
+  {
+    "id": "skill-036",
+    "name": "GraphQL",
+    "category": "database"
+  },
+  {
+    "id": "skill-037",
+    "name": "Machine Learning",
+    "category": "data-ml"
+  },
+  {
+    "id": "skill-038",
+    "name": "TensorFlow",
+    "category": "data-ml"
+  },
+  {
+    "id": "skill-039",
+    "name": "PyTorch",
+    "category": "data-ml"
+  },
+  {
+    "id": "skill-040",
+    "name": "Pandas",
+    "category": "data-ml"
+  },
+  {
+    "id": "skill-041",
+    "name": "Data Analysis",
+    "category": "data-ml"
+  },
+  {
+    "id": "skill-042",
+    "name": "NLP",
+    "category": "data-ml"
+  },
+  {
+    "id": "skill-043",
+    "name": "Computer Vision",
+    "category": "data-ml"
+  },
+  {
+    "id": "skill-044",
+    "name": "Data Visualization",
+    "category": "data-ml"
+  },
+  {
+    "id": "skill-045",
+    "name": "Communication",
+    "category": "soft-skill"
+  },
+  {
+    "id": "skill-046",
+    "name": "Leadership",
+    "category": "soft-skill"
+  },
+  {
+    "id": "skill-047",
+    "name": "Teamwork",
+    "category": "soft-skill"
+  },
+  {
+    "id": "skill-048",
+    "name": "Problem Solving",
+    "category": "soft-skill"
+  },
+  {
+    "id": "skill-049",
+    "name": "Time Management",
+    "category": "soft-skill"
+  },
+  {
+    "id": "skill-050",
+    "name": "Mentoring",
+    "category": "soft-skill"
+  },
+  {
+    "id": "skill-051",
+    "name": "Agile/Scrum",
+    "category": "soft-skill"
+  },
+  {
+    "id": "skill-052",
+    "name": "Public Speaking",
+    "category": "soft-skill"
+  }
+]
