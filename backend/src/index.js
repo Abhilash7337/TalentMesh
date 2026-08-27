@@ -1,7 +1,11 @@
 import express from "express";
 import cors from "cors";
 import "dotenv/config";
-import { verifyConnection } from "./db/connection.js";
+import healthRoutes from "./routes/health.routes.js";
+import candidatesRoutes from "./routes/candidates.routes.js";
+import jobsRoutes from "./routes/jobs.routes.js";
+import skillsRoutes from "./routes/skills.routes.js";
+import { notFoundHandler, errorHandler } from "./middleware/errorHandler.js";
 
 const app = express();
 const PORT = process.env.PORT || 4000;
@@ -9,15 +13,16 @@ const PORT = process.env.PORT || 4000;
 app.use(cors());
 app.use(express.json());
 
-// Full route set (candidates, jobs, recommendations, etc.) lands in Phase 3.
-app.get("/health", async (_req, res) => {
-  try {
-    await verifyConnection();
-    res.json({ status: "ok", db: "connected" });
-  } catch (err) {
-    res.status(503).json({ status: "error", db: "unreachable", message: err.message });
-  }
-});
+app.use("/health", healthRoutes);
+app.use("/candidates", candidatesRoutes);
+app.use("/jobs", jobsRoutes);
+app.use("/skills", skillsRoutes);
+
+// Must be registered last: 404 for unmatched routes, then the error handler
+// (4-arg signature) that turns "CognoDB unreachable" into a clean 503 instead
+// of a crash for every route above.
+app.use(notFoundHandler);
+app.use(errorHandler);
 
 app.listen(PORT, () => {
   console.log(`TalentMesh backend listening on http://localhost:${PORT}`);

@@ -10,9 +10,14 @@ if (!NEO4J_URI || !NEO4J_USER || !NEO4J_PASSWORD) {
 }
 
 // CognoDB speaks Bolt/openCypher, so the official Neo4j driver works unmodified.
+// disableLosslessIntegers: without this, every integer property (yearsExperience,
+// proficiency, count() results, etc.) comes back as a {low, high} Integer object
+// instead of a plain JS number — this dataset never gets near the range where that
+// precision would matter, so plain numbers are the right tradeoff for a readable API.
 const driver = neo4j.driver(
   NEO4J_URI,
-  neo4j.auth.basic(NEO4J_USER, NEO4J_PASSWORD)
+  neo4j.auth.basic(NEO4J_USER, NEO4J_PASSWORD),
+  { disableLosslessIntegers: true }
 );
 
 export async function verifyConnection() {
