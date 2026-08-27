@@ -11,8 +11,8 @@ router.get(
   asyncHandler(async (req, res) => {
     const limit = Math.min(Number(req.query.limit) || 20, 100);
     const skip = Number(req.query.skip) || 0;
-    const { status } = req.query;
-    res.json(await listJobs({ limit, skip, status }));
+    const { status, q } = req.query;
+    res.json(await listJobs({ limit, skip, status, q }));
   })
 );
 

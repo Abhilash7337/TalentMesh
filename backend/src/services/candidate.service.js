@@ -1,12 +1,13 @@
 import { runQuery } from "../db/connection.js";
 
-export async function listCandidates({ limit = 20, skip = 0 } = {}) {
+export async function listCandidates({ limit = 20, skip = 0, q } = {}) {
   const records = await runQuery(
     `MATCH (c:Candidate)
+     WHERE $q IS NULL OR toLower(c.name) CONTAINS toLower($q) OR toLower(c.headline) CONTAINS toLower($q)
      RETURN c
      ORDER BY c.name
      SKIP $skip LIMIT $limit`,
-    { skip, limit }
+    { skip, limit, q: q || null }
   );
   return records.map((r) => r.get("c").properties);
 }

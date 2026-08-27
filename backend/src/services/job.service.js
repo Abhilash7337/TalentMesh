@@ -1,14 +1,15 @@
 import { runQuery } from "../db/connection.js";
 
-export async function listJobs({ limit = 20, skip = 0, status } = {}) {
+export async function listJobs({ limit = 20, skip = 0, status, q } = {}) {
   const records = await runQuery(
     `MATCH (j:Job)
-     WHERE $status IS NULL OR j.status = $status
+     WHERE ($status IS NULL OR j.status = $status)
+       AND ($q IS NULL OR toLower(j.title) CONTAINS toLower($q))
      OPTIONAL MATCH (co:Company)-[:POSTED]->(j)
      RETURN j, co.name AS companyName
      ORDER BY j.postedDate DESC
      SKIP $skip LIMIT $limit`,
-    { skip, limit, status: status ?? null }
+    { skip, limit, status: status ?? null, q: q || null }
   );
   return records.map((r) => ({ ...r.get("j").properties, companyName: r.get("companyName") }));
 }

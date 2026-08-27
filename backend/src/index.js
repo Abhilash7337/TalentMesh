@@ -5,6 +5,7 @@ import healthRoutes from "./routes/health.routes.js";
 import candidatesRoutes from "./routes/candidates.routes.js";
 import jobsRoutes from "./routes/jobs.routes.js";
 import skillsRoutes from "./routes/skills.routes.js";
+import statsRoutes from "./routes/stats.routes.js";
 import { notFoundHandler, errorHandler } from "./middleware/errorHandler.js";
 
 const app = express();
@@ -17,6 +18,7 @@ app.use("/health", healthRoutes);
 app.use("/candidates", candidatesRoutes);
 app.use("/jobs", jobsRoutes);
 app.use("/skills", skillsRoutes);
+app.use("/stats", statsRoutes);
 
 // Must be registered last: 404 for unmatched routes, then the error handler
 // (4-arg signature) that turns "CognoDB unreachable" into a clean 503 instead
