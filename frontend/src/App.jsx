@@ -9,7 +9,7 @@ import { SkillGap } from "./pages/SkillGap.jsx";
 
 export default function App() {
   return (
-    <BrowserRouter>
+    <BrowserRouter basename="/TalentMesh">
       <Routes>
         <Route element={<Layout />}>
           <Route index element={<Dashboard />} />
