@@ -4,6 +4,9 @@ A candidate ↔ skill ↔ job matching graph for recruiting, built on **CognoDB*
 questions that actually matter in recruiting ("who fits, even loosely?", "who knows someone
 here?", "how far off is this person, really?") are questions about relationships, not rows.
 
+**Live demo:** https://abhilash7337.github.io/TalentMesh/ (backend may take 30-60s to wake up on
+the first request — see [Demo](#demo))
+
 ## Use case
 
 TalentMesh models a recruiting pool as a graph: candidates hold skills, jobs require skills,
@@ -180,7 +183,11 @@ writeup, and the workaround used, in `docs/queries.md`.
 
 ## Demo
 
-<!-- TODO (Phase 7): hosted URL + short screen recording link, once deployed. -->
+**Live app:** https://abhilash7337.github.io/TalentMesh/
+**Backend API:** https://talentmesh-backend.onrender.com
 
-The app runs locally per the Setup instructions above against the live CognoDB instance. A hosted
-demo link and screen recording will be added here after deployment (Phase 7).
+Frontend is deployed on GitHub Pages, backend on Render's free tier, both pointed at the same live
+CognoDB instance. The free Render instance spins down after 15 minutes idle — the first request
+after a while can take 30-60 seconds to wake it back up.
+
+<!-- TODO: screen recording link, once recorded. -->
